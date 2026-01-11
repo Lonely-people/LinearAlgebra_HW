@@ -1,1 +1,1 @@
-# LinearAlgebra_HW
+FZU 人工智能代数学基础大作业
